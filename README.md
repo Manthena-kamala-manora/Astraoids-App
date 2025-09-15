@@ -1,7 +1,7 @@
 # AsteroidApp 
 
 **"A NASA-powered Compose app to monitor asteroids and their Earth proximity, with offline features and clean architecture."**
- Asteroid App is a Compose app designed to help users track asteroids detected by NASA that come near Earth. It uses a free, open-source API provided by the NASA JPL Asteroid team and stores data locally for offline access. This project is part of the **Udacity Android Kotlin Developer Nanodegree Program**.
+ Asteroid App is a Compose app designed to help users track asteroids detected by NASA that come near Earth. It uses a free, open-source API provided by the NASA JPL Asteroid team and stores data locally for offline access. This project is part of the ** Android Kotlin Developer Nanodegree Program**.
 
 ## Main Features of the Project
 
